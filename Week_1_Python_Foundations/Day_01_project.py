@@ -25,3 +25,7 @@ else:
 
 # Print the result
 print("Result:", result)
+
+# End of Day 1 Project
+# Note: This is a simple calculator that performs basic arithmetic operations.
+# It does not handle complex expressions or error checking beyond division by zero.
