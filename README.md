@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 100 Days Python Bootcamp - 30 Day Plan
 
 This repository contains the folder structure and placeholders for the 30-day Python mastery plan.
@@ -14,3 +15,9 @@ This repository contains the folder structure and placeholders for the 30-day Py
 - Git and GitHub for version control
 
 Happy coding!
+=======
+# Week 4 GUI and Advanced
+
+This folder contains the projects for Week 4 GUI and Advanced.
+
+>>>>>>> origin/main
